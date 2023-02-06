@@ -1,0 +1,16 @@
+.Calculator {
+  background-color: #FEF3FB;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Calculator__body {
+  height: 50vh;
+  width: 40vw;
+  border-radius: 4%;
+  background-color: #CF90D8;
+  display: flex;
+}
+

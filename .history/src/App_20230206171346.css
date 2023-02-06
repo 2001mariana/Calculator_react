@@ -1,0 +1,12 @@
+.Calculator {
+  text-align: center;
+  background-color: #fca9ff;
+}
+
+.Calculator__body {
+  text-align: center;
+  height: 50vh;
+  width: 40;
+  background-color: deeppink;
+}
+

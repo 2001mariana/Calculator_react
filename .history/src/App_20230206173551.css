@@ -15,7 +15,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1%;
 }
 
 .Calculator__screen {
@@ -23,13 +22,6 @@
   height: 30%;
   width: 90%;
   border-radius: 16px 16px 0 0;
-}
-
-.Calculator__buttons {
-  border: 1px solid #e8f652;
-  height: 60%;
-  width: 90%;
-  border-radius: 0 0 16px 16px;
 }
 
 @media (max-width: 1200px) {
